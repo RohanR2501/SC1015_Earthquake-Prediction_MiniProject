@@ -45,7 +45,7 @@ To utilize the code provided in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure that the required libraries are installed, as listed above.
-3. Execute the provided Python script or Jupyter Notebook containing the data cleaning and preprocessing code.
+3. Execute the provided Jupyter Notebook.
 
 ## Models Used
 

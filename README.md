@@ -1,0 +1,1 @@
+# SC1015_Earthquake-Prediction_MiniProject

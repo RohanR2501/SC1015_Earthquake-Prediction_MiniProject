@@ -90,8 +90,8 @@ To utilize the code provided in this repository, follow these steps:
 
 ## References
 
-- [Earthquake dataset](https://www.kaggle.com/datasets/usgs/earthquake-database/data)
-- [Tectonic Plate dataset](https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries)
-- [Tensorflow](https://www.tensorflow.org/)
+- Earthquake dataset (https://www.kaggle.com/datasets/usgs/earthquake-database/data)
+- Tectonic Plate dataset(https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries)
+- Tensorflow (https://www.tensorflow.org/)
 
 

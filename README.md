@@ -2,8 +2,6 @@
 
 ## Important!: The Data Preprocessing and Exploration ipynb file isn't being completely displayed on github due to some issues with importing the folium library. Please donwload the raw code and run it on the local machine
 
-
-
 ## Introduction/Practical Motivation:
 
 Major earthquakes pose significant risks to lives and property, emphasizing the need for accurate prediction models. This project focuses on predicting earthquake magnitudes(exact and range) using key parameters like geographical coordinates, depth, and proximity to tectonic plate boundaries.

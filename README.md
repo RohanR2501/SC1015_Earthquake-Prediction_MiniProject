@@ -15,7 +15,7 @@ To determine the most effective time forecasting/ regression model for predictin
 The entire codebase has been split into three different parts.
 Please follow the flow of project as provided below:
 
-1. [Data Preprocessing and Exploratory Analysis](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Data%20Preprocessing%20and%20Exploratory%20Analysis.ipynb)
+1. [Data Preprocessing and Exploratory Analysis](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Data%20Preprocessing%20and%20Exploratory%20Analysis.ipynb) (Please download the raw code and run it on local machine as the entire output is not being displayed)
 2. [Time series forecasting and regression based models](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Time%20forecasting%20and%20Regression%20Models.ipynb)
 3. [Classification based models and conclusion](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Classification%20Models%20And%20Conclusions.ipynb)
 

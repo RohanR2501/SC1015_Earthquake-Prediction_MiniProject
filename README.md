@@ -1,6 +1,6 @@
 # SC1015 MiniProject: Earthquake Magnitude Prediction
 
-### Important! The Data Preprocessing and Exploratory analysis ipynb file isn't being completely displayed on github due to some issues with importing the folium library. Please download the datasets(earthquake database and tectonic plates) and the raw code to view/run it on your local machine
+### Important! The Data Preprocessing and Exploratory analysis ipynb file isn't being completely displayed on github due to some issues with importing the folium library. Please download the datasets(earthquake dataset and tectonic plates) and the raw code to view/run it on your local machine
 
 ## Introduction/Practical Motivation:
 

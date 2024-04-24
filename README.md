@@ -88,6 +88,10 @@ To utilize the code provided in this repository, follow these steps:
   - Gradient Boosting Classifier (GBC) is identified as the most effective classification model, exhibiting good accuracy and efficient computational time, although just slightly better than Custom Neural Networks (NN)
   - GBC is recommended for classifying range of magnitude of significant earthquake occurrences based on geographical coordinates and depth.
 
+## References
 
+- [Earthquake dataset](https://www.kaggle.com/datasets/usgs/earthquake-database/data)
+- [Tectonic Plate dataset](https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries)
+- [Tensorflow](https://www.tensorflow.org/)
 
 

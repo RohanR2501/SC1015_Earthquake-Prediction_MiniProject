@@ -64,7 +64,7 @@ To utilize the code provided in this repository, follow these steps:
 
 ## Results
 
-### Time series forecasting and regression based models’ results
+### Time series forecasting and regression based models’ results (rounded off to 4 significant figures)
 | Model | MSE (Mean Squared Error) | MAE (Mean Absolute Error) | Time Taken (seconds) |
 |-------|---------------------------|----------------------------|----------------------|
 | ARIMA | 0.204 | 0.378 | 0.223 |
@@ -76,10 +76,11 @@ To utilize the code provided in this repository, follow these steps:
 Note that the computational time varies but the trend remains the same.
 
 ### Classification Results
-| Model | Accuracy | F1 Score | 
-|-------|----------|----------|
-| NN | 0.742 | 0.656 |
-| GBC | 0.752 | 0.652 |
+| Model | Accuracy | F1 Score | Time |
+|-------|----------|----------|------|
+| NN    | 0.752367 | 0.654928 | 24.371635 |
+| GBC   | 0.751668 | 0.652482 | 0.036294 |
+
 
 
 ## Conclusions

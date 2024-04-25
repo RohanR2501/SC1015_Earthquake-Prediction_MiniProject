@@ -73,6 +73,8 @@ To utilize the code provided in this repository, follow these steps:
 | GBR | 0.174 | 0.307 | 0.005 |
 | NN | 0.177 | 0.314 | 9.183 |
 
+Note that the computational time varies but the trend remains the same.
+
 ### Classification Results
 | Model | Accuracy | F1 Score | 
 |-------|----------|----------|

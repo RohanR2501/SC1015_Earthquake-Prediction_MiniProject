@@ -90,7 +90,7 @@ Note that the computational time varies but the trend remains the same.
   - GBR demonstrates strong performance in minimizing prediction errors, making it suitable for directly predicting earthquake magnitude.
   
 - Classification Models:
-  - Gradient Boosting Classifier (GBC) is identified as the most effective classification model, exhibiting good accuracy and efficient computational time, although just slightly better than Custom Neural Networks (NN)
+  - Gradient Boosting Classifier (GBC) is identified as the most effective classification model, exhibiting good and comparable accuracy and F1 score as Custom Neural Networks (NN), but significantly better computational time.
   - GBC is recommended for classifying range of magnitude of significant earthquake occurrences based on geographical coordinates and depth.
 
 ## Individual Contributions

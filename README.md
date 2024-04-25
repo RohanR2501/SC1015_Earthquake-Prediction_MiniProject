@@ -74,10 +74,10 @@ To utilize the code provided in this repository, follow these steps:
 | NN | 0.177 | 0.314 | 9.183 |
 
 ### Classification Results
-| Model | Accuracy | F1 Score | Time Taken (seconds) |
-|-------|----------|----------|----------------------|
-| NN | 0.750 | 0.656 | 0.020
-| GBC | 0.751 | 0.652 | 0.019 |
+| Model | Accuracy | F1 Score | 
+|-------|----------|----------|
+| NN | 0.742 | 0.656 |
+| GBC | 0.752 | 0.652 |
 
 
 ## Conclusions

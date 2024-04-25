@@ -19,6 +19,8 @@ Please follow the flow of project as provided below:
 2. [Time series forecasting and regression based models](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Time%20forecasting%20and%20Regression%20Models.ipynb)
 3. [Classification based models and conclusion](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Classification_Models_And_Conclusions.ipynb)
 
+Slides used for our presentation can be found [here](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Project%20Presentation%20Slides%20_compressed.pdf)
+
 (Comments and Statistical Visualization included wherever necessary)
 
 ## Datasets used 

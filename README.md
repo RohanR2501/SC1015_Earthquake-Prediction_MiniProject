@@ -12,7 +12,7 @@ To determine the most effective time forecasting/ regression model for predictin
  
 ## About Code: 
 
-The entire codebase has been split into three different parts.
+The entire project has been split into three different parts.
 Please follow the flow of project as provided below:
 
 1. [Data Preprocessing and Exploratory Analysis](https://github.com/RohanR2501/SC1015_Earthquake-Prediction_MiniProject/blob/main/Data%20Preprocessing%20and%20Exploratory%20Analysis.ipynb) (Please download the raw code and run it on your local machine as the entire output is not being displayed)

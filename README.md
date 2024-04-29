@@ -98,7 +98,7 @@ Note that the computational time varies but the trend remains the same.
 ## Individual Contributions
 - Rohan Ramakrishna (U2323174B): Data pre-processing and cleaning, exploratory analysis, statistical visualization, implementation of all machine learning models including ARIMA (AutoRegressive Integrated Moving Average), Gradient Boosting Regression (GBR), Support Vector Regression (SVR), Random Forest Regressor (RFR), Custom Neural Network (NN) for both regression and classification, Gradient Boosting Classifier (GBC) and README File
   
-- Dhruv Agarwal (U2323494L): Presentation slides, video editing, presentation of video.
+- Dhruv Agarwal (U2323494L): Presentation slides, video editing, presentation of video (Procedure of project and models like ARIMA, GBR and GBC).
 
 ## References
 
